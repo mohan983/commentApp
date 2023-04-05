@@ -110,7 +110,7 @@ class Comments extends Component {
             />
           </div>
         </div>
-        <br className="break" />
+        <hr className="break" />
         <div className="commentItems-container">
           <div className="commentsCount-container">
             <p className="count">{commentsList.length}</p>
